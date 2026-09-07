@@ -1,0 +1,39 @@
+{
+  "Tabla_Parametros": {
+    "Hoja1": [
+      {
+        "IdRegistro": 1011,
+        "Correo": "qa1@empresa.com",
+        "CodigoInicio": "GL-ABC001",
+        "CodigoFin": "COD001-COL",
+        "Descripcion": "GESTION LOCAL REGISTRO 1",
+        "Cantidad": 10,
+        "FechaEvento": "2026-09-07",
+        "Activo": true,
+        "SinValidacion": "Texto libre A"
+      },
+      {
+        "IdRegistro": 1012,
+        "Correo": "qa2@empresa.com",
+        "CodigoInicio": "GL-ABC002",
+        "CodigoFin": "COD002-COL",
+        "Descripcion": "CONTROL GESTION REGISTRO 2",
+        "Cantidad": 55,
+        "FechaEvento": "2026-09-08",
+        "Activo": false,
+        "SinValidacion": "12345"
+      },
+      {
+        "IdRegistro": 1013,
+        "Correo": "qa3@empresa.co",
+        "CodigoInicio": "GL-ABC003",
+        "CodigoFin": "COD003-COL",
+        "Descripcion": "GESTION PRUEBA API",
+        "Cantidad": 100,
+        "FechaEvento": "2026-09-09",
+        "Activo": true,
+        "SinValidacion": "Sin regla"
+      }
+    ]
+  }
+}
