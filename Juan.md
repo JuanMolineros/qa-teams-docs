@@ -3,6 +3,6 @@
 
 Hola Tatiana
 
-Hola Stefanía
+Hola Stefanía - Es mejor saludar con una plabra amable
 
 Hola Juan otra vez
