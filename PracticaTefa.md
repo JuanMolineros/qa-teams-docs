@@ -1,0 +1,1 @@
+Iniciamos con el cambio de rama a QA, luego generar un documento para luego realizar la sincronización
